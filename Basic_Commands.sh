@@ -1,49 +1,49 @@
-# Echo 
+  Echo 
 # Used to display line of text/string that are passed as an argument.
 
-# Cat 
+  Cat 
 # It reads data from the file and gives their content as output. It helps us to create, view, concatenate files.
 
-# whoami 
+  whoami 
 # Displays the username of the current username when this command is invoked.
 
-# Who am i 
+  Who am i 
 # Gives complete information
 
-# who 
+  who 
 # Lets you display the users that are currently logged into your system.
 
-# Clear
+  Clear
 # Clears the terminal screen.
 
-# Calendar
+  Calendar
 # Invoke the cal command to see the calendar logged into your system.
 
-# Date 
+  Date 
 # Displays the date & time to the nearest second.
 
-# Uptime 
+  Uptime 
 # Returns info about how long your system has been running together with the current time, number of words, number 
 # of users with running session & the system load leverages for past 1,5&15 minutes.
 
-# Uname
+  Uname
 # Reports basic info about computer software and hardware.
 
-# Logname 
+  Logname 
 # Reports the name of the user currently logged in.
 
-# ulimit
+  ulimit
 # Allows you to display & set resource limits for users.
 
-# dir
+  dir
 # Is used to display and set resource limits for users.
 
-# man
+  man
 # Used to display user manual of any command we can run on terminal.
 
-# Hostname
+  Hostname
 # Used to obtain DNS (domain name system) and set the system’s hostname or NTS(Network Information System) domain name.
 
-# tty
+  tty
 # Displays information related to terminal, basically prints the file name of the terminal connected to standard input.It also return terminal number.
 
