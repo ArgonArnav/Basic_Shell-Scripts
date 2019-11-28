@@ -12,5 +12,3 @@
 
 Ls -1
 # Displays one file per line.
-
-
