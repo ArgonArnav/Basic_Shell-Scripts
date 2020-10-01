@@ -7,7 +7,7 @@
   chown
 # Used to change file owner or group.
 
-REFERENCE
+# REFERENCE
   u
 # File owner
   
@@ -20,7 +20,7 @@ REFERENCE
   a
 # All of the above
 
-OPERATORS
+# OPERATORS
   +
 # Adds the specified modes to the specified classes
 
